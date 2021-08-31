@@ -6,3 +6,23 @@ body {
 .title {
     width: 850px;
 }
+
+.stats tr:nth-child(even) { 
+    background-color: white;
+ } 
+ 
+ .stats tr:nth-child(odd) { 
+    background-color: lightskyblue;
+}
+
+h4 {
+    color: lightslategray;
+}
+
+h5 {
+    color: lightslategray;
+}
+
+#autore {
+    color: mediumturquoise;
+}
